@@ -1,0 +1,11 @@
+{
+  "name": "mark-brown",
+  "version": "1.0.0",
+  "description": "litterally just a Markdown editor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salayna",
+  "license": "ISC"
+}
