@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&family=Montserrat&display=swap');
+html, body, section, .full-height {
+    height: 96%;
+}
+#title{
+    height: 10%;
+    text-align: center;
+}
+#title h1{
+    color: darkgreen;
+}
+#pad{
+    font-family: 'Fira Code',monospace;
+
+    border: none;
+    overflow: auto;
+    outline: none;
+    resize: none;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    background-color: #1e1e3f;
+    color: white;
+}
+
+#markdown {
+    font-family: 'Montserrat',sans-serif;
+    overflow: auto;
+    border-left: 1px solid black;
+}
